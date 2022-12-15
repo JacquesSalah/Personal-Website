@@ -1,0 +1,57 @@
+body {margin-left: 0; margin-top: 0; margin-bottom: 0;text-align: center; font-family: 'Crimson Text', serif; font-size: 1.25rem; color: #191919;}
+h1 {margin-top: 3.125rem; font-family: 'IM Fell French Canon SC', serif;color: #1982C4;line-height: 2;}
+h2 {color: #1982C4;font-weight: normal; font-size: 2.2em;}
+h3 {color: #4267ac;}
+a {color: #4267ac;}
+hr {border-style: dotted none none none; border-width: 0.5em; width: 9%; margin: 3.75rem auto 3.75rem; color: #e0e0e0 ;}
+p {line-height: 2;}
+.programmer {font-size: 2.5rem;}
+/*text = crimson text font ; headings = asul font */
+
+/* padding = text to box. margin = box to another box. border = box contour*/
+
+.top-container {background-color: #F9F9F9; color: blue; position: relative; padding-top: 6.25em;}
+.middle-container {}
+.bottom-container {background-color: #F9F9F9; line-height: 2; padding-bottom: 1.25rem;  padding-top: 0.9375rem;}
+
+
+.top-cloud {position: absolute;right: 25%; top: 10%;}
+.bottom-cloud {position: absolute;left: 25%; bottom: 38%;}
+#myname {font-size: 5.5rem;}
+.castle {height: 300px; width: auto;margin-top: 50px;}
+.profile {width: 30%;display: inline-block;align-self: center; margin-top: 2rem;}
+.flaticonL {width: 17%; height: auto; float: left; margin-right: 1.875rem;}
+.flaticonR {width: 17%; height: auto; float: right;margin-left: 1.875rem;}
+.skills {margin-top: 5rem; margin-bottom: 6.25rem;}
+.skill-rowL {margin: 9rem auto 9rem; width: 50%;text-align: left;}
+.skill-rowR {margin: 9rem auto 9rem; width: 50%;text-align: right;}
+
+.contact-me {margin-top: 6.25rem;}
+.professional-offers {font-weight: normal;}
+.btn {
+  background: #10bfde;
+  background-image: linear-gradient(top, #10bfde, #4267ac);
+  background-image: linear-gradient(to bottom, #10bfde, #4267ac);
+  border-radius: 0.625rem;
+  font-family: 'IM Fell French Canon SC', serif;
+  color: #ffffff;
+  font-size: 1.25rem;
+  padding: 0.625rem 1.25rem 0.625rem 1.25rem;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1.25rem auto 2.5rem;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(top, #3cb0fd, #096394);
+  background-image: linear-gradient(to bottom, #3cb0fd, #096394);
+  text-decoration: none;
+}
+
+
+.footer-link1 {margin: 0.9375rem; color: #1982C4; text-decoration: none;}
+.footer-link1:hover {color: #191919;}
+.footer-link2 {color: #1982C4; text-decoration: none;}
+.footer-link2:hover {color: #191919;}
+#trademark {margin-bottom: 0; color: #565658;}
