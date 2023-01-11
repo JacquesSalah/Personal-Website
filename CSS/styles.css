@@ -6,9 +6,6 @@ a {color: #4267ac;}
 hr {border-style: dotted none none none; border-width: 0.5em; width: 9%; margin: 3.75rem auto 3.75rem; color: #e0e0e0 ;}
 p {line-height: 2;}
 .programmer {font-size: 2.5rem;}
-/*text = crimson text font ; headings = asul font */
-
-/* padding = text to box. margin = box to another box. border = box contour*/
 
 .top-container {background-color: #F9F9F9; color: blue; position: relative; padding-top: 6.25em;}
 
